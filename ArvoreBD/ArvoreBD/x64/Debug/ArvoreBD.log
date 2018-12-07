@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\rafae\downloads\arvorebd-master\arvorebd\arvorebd\arvorearquivos.h(250): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  c:\users\rafae\downloads\arvorebd-master\arvorebd\arvorebd\arvorearquivos.h(242): note: ao compilar a função membro '<Desconhecido>' de classe <Desconhecido>
+  c:\users\rafae\downloads\arvorebd-master\arvorebd\arvorebd\arvorearquivos.h(220): note: consulte a referência à instanciação da função modelo 'int ArvoreArquivos<int,int>::write_data(const T &)' que está sendo compilada
+          with
+          [
+              T=int
+          ]
+  c:\users\rafae\downloads\arvorebd-master\arvorebd\arvorebd\main.cpp(11): note: consulte a referência à instanciação '<Desconhecido>' de classe <Desconhecido> que está sendo compilada
+c:\users\rafae\downloads\arvorebd-master\arvorebd\arvorebd\arvorearquivos.h(217): warning C4715: 'ArvoreArquivos<int,int>::get_info_recursive': nem todos os caminhos de controle retornam um valor
+  ArvoreBD.vcxproj -> C:\Users\rafae\Downloads\ArvoreBD-master\ArvoreBD\x64\Debug\ArvoreBD.exe
